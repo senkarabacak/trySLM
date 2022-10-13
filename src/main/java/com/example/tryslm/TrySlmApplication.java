@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TrySlmApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TrySlmApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TrySlmApplication.class, args);
+    }
 
 }
